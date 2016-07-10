@@ -22,6 +22,7 @@ module.exports = function(grunt) {
           {
             /* Change these */
             width: 300,
+            height: 238,
             suffix: '_medium',
             quality: 30
           },
