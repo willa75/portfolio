@@ -1,5 +1,5 @@
 body{
-	font-family: 'Lato', sans-serif;
+	font-family: "Lato", sans-serif;
 	color: #2d3c49;
 	font-weight: 300;
 }
@@ -16,7 +16,7 @@ hr {
 }
 
 .feature-text {
-	color:#7d97ad;
+	color: #7d97ad;
 }
 
 .light-text {
