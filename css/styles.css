@@ -1,3 +1,9 @@
+body{
+	font-family: 'Lato', sans-serif;
+	color: #2d3c49;
+	font-weight: 300;
+}
+
 hr {
 	border-top: 4px solid #7d97ad;
 }
@@ -7,4 +13,16 @@ hr {
 	padding-right: 15px;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+.feature-text {
+	color:#7d97ad;
+}
+
+.light-text {
+	font-weight: 100;
+}
+
+.featured-height {
+	max-height: 238px;
 }
